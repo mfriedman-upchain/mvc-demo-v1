@@ -1,3 +1,5 @@
+#!/usr/local/env groovy
+
 node() {
 
     stage('git') {
